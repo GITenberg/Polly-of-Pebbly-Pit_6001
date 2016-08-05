@@ -1,0 +1,29 @@
+_repo: Polly-of-Pebbly-Pit_6001
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Colorado -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- GITenberg
+title: Polly of Pebbly Pit
+url: http://www.gutenberg.org/ebooks/6001
